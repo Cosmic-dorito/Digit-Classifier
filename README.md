@@ -13,7 +13,7 @@ The pipeline covers:
 
 ## Dataset
 Kaggle digit recognizer competition dataset which is a subset of the MNIST dataset (https://www.kaggle.com/competitions/digit-recognizer/data)
-The CSV file contains 42000 rows/samples with 784 columns(28x28)handwritten digit images as pixel intensity.
+The CSV file contains 42000 rows/samples with 784 columns(28x28)+1label as handwritten digit images as pixel intensity.
 This is split for training and testing (80% and 20%).
 
 ## Setup Instructions
