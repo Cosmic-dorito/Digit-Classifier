@@ -17,8 +17,8 @@ The CSV file contains 42000 rows/samples with 784 columns(28x28)handwritten digi
 This is split for training and testing (80% and 20%).
 
 ## Setup Instructions
--Install all the required libraries and data file.
--Train and save the model.
--Run the fast api app.
--Upload a handwritten image to test.
+- Install all the required libraries and data file
+- Train and save the model
+- Run the fast api app
+- Upload a handwritten image to test
  
