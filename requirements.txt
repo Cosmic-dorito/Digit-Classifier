@@ -1,0 +1,19 @@
+The project uses a lot of important Python libraries like:
+
+numpy
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+tensorflow
+
+fastapi
+
+uvicorn
+
+pillow
