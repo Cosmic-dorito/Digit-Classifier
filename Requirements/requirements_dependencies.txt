@@ -17,3 +17,5 @@ This project uses the following Python libraries like:
 - gradio
 
 - image
+
+- pillow
