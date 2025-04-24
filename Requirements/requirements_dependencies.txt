@@ -14,8 +14,6 @@ This project uses the following Python libraries like:
 
 - cv2
 
-- fastapi
+- gradio
 
-- uvicorn
-
-- pillow
+- image
